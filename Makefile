@@ -1,2 +1,2 @@
-soren: main.c
-	$(CC) main.c -o soren -Wall -Wextra -pedantic -std=c99
+ninho: main.c
+	$(CC) main.c -o ninho -Wall -Wextra -pedantic -std=c99
